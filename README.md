@@ -18,7 +18,7 @@ ideavimrc配置文件（spacevim的简化版本，并增加了部分具有个人
     - 基本保持vim的原生键位，但加入了部分个人习惯的快捷键
     - 推荐使用ace-jump插件快速跳转光标
 
-## .auto_install_softwares.ps1
+## auto_install_softwares.ps1
 自动安装软件的脚本，大部分软件使用scoop管理，少量软件通过winget获取，主要包括
 - 开发软件，开发环境
 - 一些windows下的终端工具
